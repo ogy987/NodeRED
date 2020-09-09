@@ -1,1 +1,1 @@
-# NodeRED example flows
+# NodeRED example flows in json format
