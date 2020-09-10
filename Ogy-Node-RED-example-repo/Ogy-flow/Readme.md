@@ -1,1 +1,0 @@
-# Ogy test folder
